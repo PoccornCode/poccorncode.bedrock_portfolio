@@ -44,6 +44,7 @@ Entities react dynamically to the player’s actions and the environment, includ
 - JavaScript / JSON
 - Performance Optimization
 - System Design
+- Intermediate skills in pixel art
 
 ---
 
