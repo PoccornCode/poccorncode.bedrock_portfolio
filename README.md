@@ -1,7 +1,7 @@
 # Bedrock Developer Portfolio
 
 # About Me
-I am a developer with two years of experience, soon to be three and 
+I am a developer with three years of experience, soon to be three and 
 I enjoy and focus on developing add-ons that integrate with complex systems.
 
 My English is not perfect yet, but I am comfortable communicating in writing and I am actively working to improve it.
